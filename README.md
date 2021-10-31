@@ -21,6 +21,9 @@ Additionally if you want to enable auto adding to specific role in Auth Manager 
 
 Features
 --------
-- Logout
 - Choose any google logged in account
 - Support for Auth Manager Plus [https://github.com/joshp23/YOURLS-AuthMgrPlus] (Just use account email as username in AMP config)
+- Logout
+
+
+Any fedeback is valuable.
