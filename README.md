@@ -26,4 +26,4 @@ Features
 - Logout
 
 
-Any fedeback is valuable.
+Any feedback is valuable.
